@@ -1,5 +1,5 @@
-# 💫 Hi there!:
-**"👋<br>I’m a front-end developer with expertise in both mobile and web development, bringing over two years of experience to the table.<br><br>💻 Skilled in Flutter for mobile apps and modern web technologies like React and JavaScript, I enjoy creating scalable, user-friendly solutions.<br>📚 Continuously learning and improving, I’m always exploring new tools and techniques to stay ahead in the fast-evolving tech landscape.<br>🌟 Passionate about clean, maintainable code, delivering exceptional user experiences, and collaborating on innovative projects.<br><br>Feel free to explore my repositories, check out my projects, or reach out if you'd like to connect or collaborate!"**
+# 💫 Hi there!:<br>
+**"👋 I’m a front-end developer with expertise in both mobile and web development, bringing over two years of experience to the table.<br><br>💻 Skilled in Flutter for mobile apps and modern web technologies like React and JavaScript, I enjoy creating scalable, user-friendly solutions.<br>📚 Continuously learning and improving, I’m always exploring new tools and techniques to stay ahead in the fast-evolving tech landscape.<br>🌟 Passionate about clean, maintainable code, delivering exceptional user experiences, and collaborating on innovative projects.<br><br>Feel free to explore my repositories, check out my projects, or reach out if you'd like to connect or collaborate!"**
 
 
 ## 🌐 Socials:
