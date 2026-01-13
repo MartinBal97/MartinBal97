@@ -1,10 +1,18 @@
-# 👋 Hi there!:<br>
-**"💫 I’m a front-end developer with expertise in both mobile and web development, bringing over 3 years of experience to the table.<br><br>💻 Skilled in Flutter for mobile apps and modern web technologies like React and JavaScript, I enjoy creating scalable, user-friendly solutions.<br>📚 Continuously learning and improving, I’m always exploring new tools and techniques to stay ahead in the fast-evolving tech landscape.<br>🌟 Passionate about clean, maintainable code, delivering exceptional user experiences, and collaborating on innovative projects.<br><br>Feel free to explore my repositories, check out my projects, or reach out if you'd like to connect or collaborate!"**
+# Hi, I’m Martín
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martinbalverde/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16402600/martin-balverde) 
+Front-end developer focused on **mobile and web applications**, with 3+ years of experience building and maintaining production-ready products.
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+I work mainly with **Flutter** for mobile and **modern web technologies** (React, TypeScript, JavaScript). My priorities are **clean architecture, maintainable code, and usability**. I care about performance, readability, and making things easy to reason about for whoever touches the code next.
 
-[![](https://visitcount.itsvg.in/api?id=MartinBal97&icon=0&color=0)](https://visitcount.itsvg.in)
+I’m not interested in trends for the sake of trends. I value tools that solve real problems and teams that take engineering seriously.
+
+Feel free to explore the repositories.
+
+---
+
+## Tech
+Flutter · Dart · React · TypeScript · JavaScript · HTML · CSS · Tailwind · Git · GitHub · Firebase · Supabase · Figma
+
+## Profiles
+- [LinkedIn](https://www.linkedin.com/in/martinbalverde/)
+- [Stack Overflow](https://stackoverflow.com/users/16402600/martin-balverde)
