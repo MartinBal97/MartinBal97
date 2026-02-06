@@ -1,12 +1,14 @@
 # Hi, I’m Martín
 
-Front-end developer focused on **mobile and web applications**, with 3+ years of experience building and maintaining production-ready products.
+I’m a front-end developer focused mainly on **mobile development**, working mostly with **Flutter**. I’ve spent the last few years building and maintaining production apps, dealing with the usual realities: performance issues, technical debt, and code that has to live longer than expected.
 
-I work mainly with **Flutter** for mobile and **modern web technologies** (React, TypeScript, JavaScript). My priorities are **clean architecture, maintainable code, and usability**. I care about performance, readability, and making things easy to reason about for whoever touches the code next.
+Flutter is where I’m most comfortable. I care about keeping codebases simple, predictable, and easy to maintain.
 
-I’m not interested in trends for the sake of trends. I value tools that solve real problems and teams that take engineering seriously.
+I also work with web technologies when they make sense, mostly to support mobile products or shared workflows, but mobile is where I put most of my attention and energy.
 
-Feel free to explore the repositories.
+I try to be intentional with tools and decisions. I’m not interested in trends unless they clearly earn their place. I value practical solutions, clear thinking, and teams that care about doing things properly.
+
+This repository is a mix of small experiments, learning projects, and things I use to explore ideas around Flutter and mobile development.
 
 ---
 
@@ -16,3 +18,4 @@ Flutter · Dart · React · TypeScript · JavaScript · HTML · CSS · Tailwind 
 ## Profiles
 - [LinkedIn](https://www.linkedin.com/in/martinbalverde/)
 - [Stack Overflow](https://stackoverflow.com/users/16402600/martin-balverde)
+
